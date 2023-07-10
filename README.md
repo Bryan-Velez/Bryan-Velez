@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Bryan!👋
 
 
 - 🔭 I’m currently working on sharpening my Javascript skills

@@ -7,7 +7,7 @@
 - 📫 How to reach me: Here is my LinkedIn https://www.linkedin.com/in/bryanvelez-se/
 
 
-Skills: HTML, CSS, Javascript, Mongoose, Express, React, Node.js
+Skills: HTML, CSS, Javascript, Mongoose, Express, React, Node.js, MongoDB
 <br/>
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width=70>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width=70>
